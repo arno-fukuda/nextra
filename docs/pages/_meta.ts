@@ -22,6 +22,21 @@ export default {
       }
     }
   },
+  counting: {
+    type: 'menu',
+    title: 'Counting',
+    items: {
+      one: {
+        title: 'One'
+      },
+      two: {
+        title: 'Two'
+      },
+      three: {
+        title: 'Three'
+      }
+    }
+  },
   about: {
     type: 'page',
     title: 'About',
